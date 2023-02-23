@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lesson-20--hw-todolist-redux-toolkit/static/css/main.073c9b0a.css",
+    "main.js": "/lesson-20--hw-todolist-redux-toolkit/static/js/main.0efd4bd8.js",
+    "index.html": "/lesson-20--hw-todolist-redux-toolkit/index.html",
+    "main.073c9b0a.css.map": "/lesson-20--hw-todolist-redux-toolkit/static/css/main.073c9b0a.css.map",
+    "main.0efd4bd8.js.map": "/lesson-20--hw-todolist-redux-toolkit/static/js/main.0efd4bd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0efd4bd8.js"
+  ]
+}
